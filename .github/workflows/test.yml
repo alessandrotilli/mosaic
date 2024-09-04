@@ -1,9 +1,6 @@
 name: Mosaic CI - Test
 
-on:
-  pull_request:
-    branches:
-      - main
+on: push
 
 concurrency:
   group: test-${{ github.ref_name }}
