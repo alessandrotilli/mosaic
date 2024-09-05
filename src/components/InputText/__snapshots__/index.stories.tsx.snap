@@ -198,7 +198,7 @@ exports[`Inputs/InputText Multiline smoke-test 1`] = `
               class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputMultiline css-mui-classname"
               readonly
               tabindex="-1"
-              style="visibility: hidden; position: absolute; overflow: hidden; height: 0px; top: 0px; left: 0px; transform: translateZ(0px); width: 1224px; padding-top: 0px; padding-bottom: 0px;"
+              style="visibility: hidden; position: absolute; overflow: hidden; height: 0px; top: 0px; left: 0px; transform: translateZ(0px); width: 1225px; padding-top: 0px; padding-bottom: 0px;"
     >
     </textarea>
     <fieldset aria-hidden="true"
