@@ -24,7 +24,7 @@ const config: TestRunnerConfig = {
     initDatabase();
   },
   async preVisit(page) {
-    page.setViewportSize({ width: 1282, height: 720 });
+    page.setViewportSize({ width: 1283, height: 720 });
 
     page
       .evaluate<SBStory>(() => {

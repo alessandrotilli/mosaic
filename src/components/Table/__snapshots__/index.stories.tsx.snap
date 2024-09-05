@@ -44,14 +44,14 @@ exports[`Display/Table ColumnFilters smoke-test 1`] = `
             <div class="MuiFormControl-root MuiTextField-root css-mui-classname">
               <label class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-sizeMedium MuiInputLabel-standard MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-sizeMedium MuiInputLabel-standard css-mui-classname"
                      data-shrink="false"
-                     for=":r0:"
-                     id=":r0:-label"
+                     for=":r21:"
+                     id=":r21:-label"
               >
                 type to filter
               </label>
               <div class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-formControl css-mui-classname">
                 <input aria-invalid="false"
-                       id=":r0:"
+                       id=":r21:"
                        type="text"
                        class="MuiInputBase-input MuiInput-input css-mui-classname"
                        value
@@ -338,14 +338,14 @@ exports[`Display/Table ColumnFiltersSticky smoke-test 1`] = `
             <div class="MuiFormControl-root MuiTextField-root css-mui-classname">
               <label class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-sizeMedium MuiInputLabel-standard MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-sizeMedium MuiInputLabel-standard css-mui-classname"
                      data-shrink="false"
-                     for=":r1:"
-                     id=":r1:-label"
+                     for=":r22:"
+                     id=":r22:-label"
               >
                 type to filter
               </label>
               <div class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-colorPrimary MuiInputBase-formControl css-mui-classname">
                 <input aria-invalid="false"
-                       id=":r1:"
+                       id=":r22:"
                        type="text"
                        class="MuiInputBase-input MuiInput-input css-mui-classname"
                        value
